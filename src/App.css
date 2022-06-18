@@ -12,3 +12,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+button {
+  font-size: 48px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border-color: white;
+  cursor: pointer;
+
+  background-color: transparent;
+  color: white;
+}
